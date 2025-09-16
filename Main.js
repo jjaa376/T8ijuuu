@@ -16171,7 +16171,7 @@ const Gv = Object.freeze(Object.defineProperty({
 
 function kv() {
     return E.jsx(mv, {
-        basename: "/preview/fc144141-d8bd-45f6-be19-3cc37ba5d7d9/2477318",
+        basename: "/T8ijuuu",
         children: E.jsx(Wh, {})
     })
 }
