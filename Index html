@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="bn">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>গেমিং টপআপ হাব</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    
+    <!-- Icon Libraries -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.5.0/remixicon.min.css">
+
+    <!-- *** আপনার নিজের CSS ফাইলের লিংক *** -->
+    <!-- যেহেতু index.html এবং main.css একই জায়গায় থাকবে, তাই শুধু ফাইলের নাম লিখলেই হবে -->
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <!-- *** আপনার নিজের JavaScript ফাইলের লিংক *** -->
+    <!-- যেহেতু index.html এবং Main.js একই জায়গায় থাকবে, তাই শুধু ফাইলের নাম লিখলেই হবে -->
+    <script type="module" src="Main.js"></script>
+  </body>
+</html>
